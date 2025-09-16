@@ -35,5 +35,28 @@ The goal of this project is to help organizations make **data-driven HR decision
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
+---
 
+## 🚀 Key Insights
+- Workforce is almost evenly distributed: **50.8% Male, 46.5% Female**.  
+- Around **25% of employees work remotely**, while **75% work in HQ**.  
+- The **Engineering department** has the highest workforce (~6.7K employees).  
+- **White, Asian, and Black employees** have similar representation (~3.6K each).  
+- Hiring peaked around **early 2000s and 2010s** with 1,100+ hires per year.  
+- **Ohio state** has the largest workforce (~18K employees).  
+
+---
+
+## ✅ Business Value
+This HR analytics dashboard helps:  
+- **HR teams** identify diversity gaps and workforce imbalances.  
+- **Management** optimize workforce planning by department & location.  
+- **Executives** make informed decisions on remote vs HQ workforce strategies.  
+
+---
+
+## 👨‍💻 Author
+**Rohit Wagh**  
+- 📧 Email: [rohitwagh6264@gmail.com](mailto:rohitwagh6264@egmail.com)  
+ 
 
