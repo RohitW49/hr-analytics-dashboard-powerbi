@@ -33,6 +33,7 @@ The goal of this project is to help organizations make **data-driven HR decision
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard Screenshort.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
 
 
